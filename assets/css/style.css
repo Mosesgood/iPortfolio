@@ -1075,3 +1075,9 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+@media (max-width: 500px) {
+  img{
+    width: 100%;
+  }
+} 
